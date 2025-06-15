@@ -1,6 +1,6 @@
 Project: Remote Deployment of MLflow on AWS
 ===========================================
-This project is demonstrate how to deploy MLflow tracking on AWS cloud. The ML process involves using ElasticNet to predict the wine quality.
+This project is to demonstrate how to deploy MLflow tracking on AWS cloud. The ML process involves using ElasticNet to predict the wine quality.
 
 IAM, S3, EC2, AWSCLI setup
 ==========================
