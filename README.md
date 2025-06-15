@@ -24,8 +24,6 @@ IAM, S3, EC2, AWSCLI setup
 
     2.2. Export the credentials in your AWS CLI
     • run “aws configure”
-        ![alt text](image.png)
-
       “AWS Access Key ID” and “AWS Secret Access Key” are from section 1.2. Access Key” 
       “Default region name” and  “Default output format” can use the default value, just press Enter.
 
